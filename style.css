@@ -1,10 +1,5 @@
-body{
-    background-color: rgb(95, 191, 230)
-
-}
-
-.poesia {
-    text-align: center; /* centraliza */
-    font-size: 20px;
-    line-height: 1.6;
+* {
+    margin: 0
+    padding: 0
+    box-sizing: border-box;
 }
